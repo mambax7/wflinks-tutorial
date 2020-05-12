@@ -8,7 +8,7 @@
             
 ## User Manual
 
-© 2018 XOOPS Project ([www.xoops.org](https://xoops.org))  
+© 2020 XOOPS Project ([www.xoops.org](https://xoops.org))  
 
 ## Module Purpose 
 
