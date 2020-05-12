@@ -2,7 +2,7 @@
 ![](en/assets/logoXoops.jpg)
 
 # Module xLanguage
-#### for XOOPS 2.5.7
+#### for XOOPS 2.5.10
       
 ![](en/assets/logoModule.png)
             
